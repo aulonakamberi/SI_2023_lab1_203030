@@ -1,0 +1,37 @@
+C:\Users\Aulonaa\SI_2023_lab1_203030>git log
+commit 022d8c94af806202da301ff497287f891f500b3a (HEAD -> master, origin/bug3, bug3)
+Author: Aulona Kamberi <kamberiaulona@gmail.com>
+Date:   Sun Apr 2 01:30:41 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit e8a724436f9bfff8f2cdcb87d7bb9a592d338cc1
+Merge: 7a9e199 432a180
+Author: Aulona Kamberi <kamberiaulona@gmail.com>
+Date:   Sun Apr 2 01:31:57 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 432a180f8da95558e683b6a4296693a2a0fa8a16 (origin/bug2, bug2)
+Author: Aulona Kamberi <kamberiaulona@gmail.com>
+Date:   Sun Apr 2 01:30:01 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 7a9e1991d8cc72a3cf851a0bcbe1d505ad7270ff (origin/bug1, bug1)
+Author: Aulona Kamberi <kamberiaulona@gmail.com>
+Date:   Sun Apr 2 01:28:59 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 22af7b063e5f6b0cf3af74ac818b001054199f76 (origin/master)
+Author: Aulona Kamberi <kamberiaulona@gmail.com>
+Date:   Sun Apr 2 01:27:28 2023 +0200
+
+    Add java class
+
+commit baf6e9c5e0b07fdac33b727a32fdb5a3bd796dd9
+Author: Aulona Kamberi <kamberiaulona@gmail.com>
+Date:   Sun Apr 2 01:26:54 2023 +0200
+
+    Initial commit
